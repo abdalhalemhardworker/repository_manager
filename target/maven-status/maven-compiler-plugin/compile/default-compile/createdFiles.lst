@@ -1,0 +1,7 @@
+Entities\LoadModel.class
+UI\Pages\LoadPage.class
+Config\UiConfig.class
+module-info.class
+Repo\LoadRepo.class
+Config\DBConfig.class
+com\mycompany\repository_manager_fx\App.class
